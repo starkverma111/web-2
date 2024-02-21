@@ -1,0 +1,39 @@
+
+      * {
+        font-family: 'Inter', sans-serif;
+      }
+	  
+	  body{
+	  width:50%;
+	  margin:auto;
+	  }
+
+      .nav-link {
+        margin-left: 2px;
+        margin-right: 2px;
+        font-size: 1rem;
+        letter-spacing: 0.040rem;
+      }
+
+      .fs-5 {
+        letter-spacing: 0.07rem;
+        font-weight: 500;
+      }
+	  
+	        .img-cover {
+        object-fit: cover;
+        object-position: center;
+        height: 180px;
+        width: 180px;
+        border-radius: 50%;
+      }
+
+      #cc {
+        background-color: #ab183d;
+      }
+	  @media only screen and (max-width: 1400px) {
+  body {
+    	  width:100%;
+	  margin:auto;
+  }
+}
