@@ -4,7 +4,7 @@
 
 Hey i just developed my second website, which is a clone of the [ SARKARI RESULT ] website built with Bootstrap 5.3. Check it out!
 
-https://starkverma111.github.io/web-1/
+#### https://starkverma111.github.io/web-2/
 
 `Website | Bootstrap 5.3 | Project 2`
 
